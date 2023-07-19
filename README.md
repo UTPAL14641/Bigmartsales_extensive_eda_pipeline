@@ -19,31 +19,31 @@ python main.py
 ## Analysis and Visualizations
 ### Pie Charts
 
-![Pie Chart 1](Images/download(6).png)
+![Pie Chart 1](Images/download (6).png)
 ### Bar Plot
-![Barplot](Images/download(3).png)
-![Barplot](Images/download(9).png)
+![Histogram of MRP](Images/download (1).png)
+![Barplot](Images/download (3).png)
+![Barplot](Images/download (9).png)
 ### Histograms
-
 ![Histogram of MRP](Images/download.png)
-![histogram of ProductVisibility](Images/download(5).png)
-![histogram of OutletSales](Images/download(4).png)
+![histogram of ProductVisibility](Images/download (5).png)
+![histogram of OutletSales](Images/download (4).png)
 
 ### Box Plots
 
-![Box Plot 1](Images/download(7).png)
+![Box Plot 1](Images/download (7).png)
 
 ### Scatter Plots
 
-![Scatter Plot 1](Images/download(8).png)
+![Scatter Plot 1](Images/download (8).png)
 ### Time-based Analysis
 
-![Box Plot](Images/download(10).png)
+![Box Plot](Images/download (10).png)
 
 # Line plots
-![Scatter Plot 1](Images/download(11).png)
-![Scatter Plot 1](Images/download(12).png)
-![Scatter Plot 1](Images/download(13).png)
+![Scatter Plot 1](Images/download (11).png)
+![Scatter Plot 1](Images/download (12).png)
+![Scatter Plot 1](Images/download (13).png)
 
 ## Preprocessing and model deployment
 for preprocessing the data I have various methods like standardscaling, Onehot Encoding etc. For cleaning the data I tried to retain as much information as I can. So, I used to group the data of the column containing the missing value with respect to the other colums and then depending on the type of the data I either just replicated the data for same group or used mean, median, mode  as well. For deployment I created a pipeline for preprocessing and model(Decision trees) for training the data and predicting the output for the test data
