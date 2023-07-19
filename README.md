@@ -9,7 +9,7 @@ In this project, I have performed extensive analysis on BigMart Sales dataset of
 ![Pie Chart](Images/download (6).png)
 
 ### Bar Plot
-![plot]([Images/download (1)](https://github.com/UTPAL14641/Bigmartsales_extensive_eda_pipeline/blob/main/Images/download%20(1).png))
+![plot](https://github.com/UTPAL14641/Bigmartsales_extensive_eda_pipeline/blob/main/Images/download%20(1).png)
 ![Barplot_1](Images/download (3).png)
 ![Barplot](Images/download (9).png)
 ### Histograms
